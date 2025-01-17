@@ -1,4 +1,4 @@
-# Crop-Production Prediction Using Machine Learning A Comprehensive Data Driven Approach
+# Crop-Production Prediction Using Machine Learning
 Project Summary  
 This project focuses on predicting crop production using a machine learning pipeline. It incorporates data cleaning, exploratory data analysis (EDA), data visualization, dashboard creation, and regression modeling to provide an end-to-end solution for analyzing and predicting crop yields. Below are the detailed steps of the workflow:  
 
